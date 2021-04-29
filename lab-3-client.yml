@@ -1,12 +1,1 @@
-# luckyword.yml
----
-spring:
-  lucky-word: Irish
-
----
-spring:
-  lucky-word: Rabbit's Foot
-  
----
-spring:
-  lucky-word: Serendipity
+lucky-word: Irish
